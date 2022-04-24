@@ -2,7 +2,7 @@
 
 ## Test automation project using Cucumber and Java
 <br/>
-<p>This repository contains Cucumber-Java project to perform test automation on <a>https://www.pinterest.com</a>. I have used TestNg for performing assertion and Allure for generating report.</p>
+<p>This repository contains Cucumber-Java project to perform test automation on https://www.pinterest.com. I have used TestNg for performing assertion and Allure for generating report.</p>
 
 ---
 <br/>
@@ -51,10 +51,10 @@ allure serve allure-report
 ## Sample Test Reports:
 <br/> 
 
-<img src="./allure-results/Screenshots/Overview.png" width="600px;">
+![Overview](./allure-results/Screenshots/Overview.png)
 <br/><br/>
 
-<img src="./allure-results/Screenshots/Graphs.png" width="600px;">
+![Graphs](./allure-results/Screenshots/Graphs.png)
 
 <br/><br/>
 
