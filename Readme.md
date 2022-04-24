@@ -51,10 +51,10 @@ allure serve allure-report
 ## Sample Test Reports:
 <br/> 
 
-![Overview](./allure-results/Screenshots/Overview.png)
+<img src="./allure-results/Screenshots/Overview1.png" width="600px;">
 <br/><br/>
 
-![Graphs](./allure-results/Screenshots/Graphs.png)
+<img src="./allure-results/Screenshots/Graphs1.png" width="600px;">
 
 <br/><br/>
 
