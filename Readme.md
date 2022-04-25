@@ -1,8 +1,6 @@
-# QUPS
-
 ## Test automation project using Cucumber and Java
 <br/>
-<p>This repository contains Cucumber-Java project to perform test automation on https://www.pinterest.com. I have used TestNg for performing assertion and Allure for generating report.</p>
+<p>This repository contains Cucumber-Java project to perform test automation on https://www.pinterest.com. I have used TestNg for performing assertions and Allure for generating reports.</p>
 
 ---
 <br/>
@@ -59,4 +57,4 @@ allure serve allure-report
 <br/><br/>
 
 ## Author:
-[Tariful Islam Abir](https://github.com/tarif-qups)
+This project was developed by [Tariful Islam Abir](https://github.com/tarif-qups) under supervission of **Quality Up Services (QUPS)**.
